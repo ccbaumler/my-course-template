@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/2025-course-website' # the subpath of your site, e.g. /blog
-url: 'https://ccbaumler.io' # the base hostname & protocol for your site, e.g. http://example.com
+title: STS115
+tagline: STS115: Adventures in Data Science
+description: A broad template for yearly course websites
+author: Colton Baumler
+#baseurl: '/my-course-template' # the subpath of your site, e.g. /blog
+url: 'https://ccbaumler.io/my-course-template' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+logo: https://upload.wikimedia.org/wikipedia/commons/3/38/Data_Science.png
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
@@ -28,11 +29,13 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Canvas:
     - 'https://kevinl.info'
   Just the Class on GitHub:
     - 'https://github.com/kevinlin1/just-the-class'
-footer_content:
+  Just Cheese!:
+    - 'https://en.wikipedia.org/wiki/Cheese'
+footer_content: 'Colton Baumler &copy; 2025 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:
