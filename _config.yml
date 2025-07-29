@@ -20,7 +20,7 @@ author: Colton Baumler
 baseurl: '/my-course-template' # the subpath of your site, e.g. /blog
 url: 'https://ccbaumler.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", 'README.md']
-logo: "https://upload.wikimedia.org/wikipedia/commons/3/38/Data_Science.png"
+logo: "assets/images/Data_Science.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
