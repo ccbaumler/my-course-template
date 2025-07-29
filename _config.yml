@@ -17,8 +17,8 @@ title: STS115
 tagline: STS115 - Adventures in Data Science
 description: A broad template for yearly course websites
 author: Colton Baumler
-#baseurl: '/my-course-template' # the subpath of your site, e.g. /blog
-url: 'https://ccbaumler.io/my-course-template' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/my-course-template' # the subpath of your site, e.g. /blog
+url: 'https://ccbaumler.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", 'README.md']
 logo: "https://upload.wikimedia.org/wikipedia/commons/3/38/Data_Science.png"
 
