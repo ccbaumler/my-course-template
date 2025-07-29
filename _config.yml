@@ -19,8 +19,8 @@ description: A broad template for yearly course websites
 author: Colton Baumler
 #baseurl: '/my-course-template' # the subpath of your site, e.g. /blog
 url: 'https://ccbaumler.io/my-course-template' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: https://upload.wikimedia.org/wikipedia/commons/3/38/Data_Science.png
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", 'README.md']
+logo: "https://upload.wikimedia.org/wikipedia/commons/3/38/Data_Science.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
