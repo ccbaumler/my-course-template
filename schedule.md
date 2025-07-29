@@ -4,12 +4,6 @@ title: Schedule
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
-
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
-
 # Google scehdule
 
 - [Lecture, Discussion, and Special Events Calendar](#ldlc)
@@ -37,4 +31,9 @@ This calendar contains times for
 
 <br>
 
-<a name='ohc'></a>
+# Weekly Schedule
+
+{% for schedule in site.schedules %}
+{{ schedule }}
+{% endfor %}
+
