@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
     Course policies and information.
+nav_order: 1
 ---
 
 # About
