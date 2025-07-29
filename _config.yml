@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: STS115
-tagline: STS115: Adventures in Data Science
+tagline: STS115 - Adventures in Data Science
 description: A broad template for yearly course websites
 author: Colton Baumler
 #baseurl: '/my-course-template' # the subpath of your site, e.g. /blog
