@@ -6,8 +6,10 @@ description: >-
 nav_order: 1
 ---
 
-# About
+# Course Syllabus
 {:.no_toc}
+
+Below is all the information on the course.
 
 ## Table of contents
 {: .no_toc .text-delta }
