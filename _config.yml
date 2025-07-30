@@ -68,6 +68,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: resource
+    values:
+      layout: minimal
 
 compress_html:
   clippings: all
@@ -80,6 +85,3 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
-
-plugins:
-  - jekyll-seo-tag
