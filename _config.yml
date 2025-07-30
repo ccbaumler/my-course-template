@@ -43,6 +43,9 @@ collections:
   modules:
   schedules:
   announcements:
+  resource:
+    permalink: "/:path/"
+    output: true
 # Default layouts for each collection type
 defaults:
   - scope:
